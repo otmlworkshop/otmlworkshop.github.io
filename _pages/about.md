@@ -2,7 +2,7 @@
 layout: workshop
 title: About
 permalink: /
-subtitle: Workshop at the International Conference on Machine Learning (ICML) 2023
+subtitle: Workshop at Neural Information and Processing Systems (NeurIPS) 2023
 
 profile:
   align: right

@@ -2,8 +2,6 @@
 layout: page
 permalink: /submissions/
 title: Call for Papers
-description: We invite researcher in machine learning, control and dynamical systems to submit their latest work to our NeurIPS 2023 workshop. Accepted papers will 
-be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
 nav: true
 nav_order: 3
 ---
@@ -14,11 +12,11 @@ nav_order: 3
 
 We invite submissions related (but not limited) to the following topics that are related to optimal transport:
 
-*   Stochastic Processes
-*   Wasserstein Gradient Flows
-*   Stochastic Optimal Control
-*   Dynamical Probabilistic Inference, e.g., MCMC, Variational Inference
-*   Neural ODEs, SDEs, or PDEs
+*   Estimation of Optimal Transport
+*   Generalizations of Optimal Transport
+*   Statistics and Theory of Optimal Transport
+*   Optimal Transport and Applications
+*   Optimal Transport Gradient Flows 
 
 ## Important Dates
 
@@ -38,4 +36,4 @@ To submit your work, please visit the **[OpenReview submission website](https://
 
 ## Questions
 
-If you have any questions, please do not hesitate to contact us at [frontiers4lcd@gmail.com](mailto:Frontiers4LCD@gmail.com).
+If you have any questions, please do not hesitate to contact us at [otml2023workshop@gmail.com](mailto:otml2023workshop@gmail.com).

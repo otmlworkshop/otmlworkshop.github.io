@@ -2,7 +2,8 @@
 layout: page
 permalink: /submissions/
 title: Call for Papers
-description: We invite researcher in machine learning, control and dynamical systems to submit their latest work to our ICML 2023 workshop. Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
+description: We invite researcher in machine learning, control and dynamical systems to submit their latest work to our NeurIPS 2023 workshop. Accepted papers will 
+be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
 nav: true
 nav_order: 3
 ---
@@ -11,20 +12,18 @@ nav_order: 3
 
 ## Topics
 
-We invite submissions related (but not limited) to the following topics:
+We invite submissions related (but not limited) to the following topics that are related to optimal transport:
 
-*   Optimal Transport
 *   Stochastic Processes
+*   Wasserstein Gradient Flows
 *   Stochastic Optimal Control
 *   Dynamical Probabilistic Inference, e.g., MCMC, Variational Inference
-*   Diffusion Models
 *   Neural ODEs, SDEs, or PDEs
-*   Reinforcement Learning
 
 ## Important Dates
 
-*   Submission Deadline: `May 29, 2023 at 23:59 AoE`
-*   Acceptance Notification: `June 19, 2023`
+*   Submission Deadline: `TBD`
+*   Acceptance Notification: `TBD`
 *   Camera-Ready Deadline for Accepted Submissions: `TBD`
 
 ## Submission Details

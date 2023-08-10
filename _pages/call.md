@@ -20,18 +20,18 @@ We invite submissions related (but not limited) to the following topics that are
 
 ## Important Dates
 
-*   Submission Deadline: `TBD`
-*   Acceptance Notification: `TBD`
-*   Camera-Ready Deadline for Accepted Submissions: `TBD`
+*   Submission Deadline: September 29th, 2023
+*   Acceptance Notification: October 27th, 2023
+
 
 ## Submission Details
 
 To ensure your submission is considered, please adhere to the following guidelines:
 
-*   **Formatting Instructions**: Use the following **[style files](/assets/files/icml2023_frontiers4lcd.zip)** when preparing your submission. Use the following style files when preparing your submission. Papers need to be prepared and submitted as a single file: We accept *long (8 pages)* and *short (4 pages)*, with unlimited pages for references and appendix in both cases. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
+*   **Formatting Instructions**: Use the following **[style files](/assets/files/neurips2023_otml.zip)** when preparing your submission. Use the following style files when preparing your submission. Papers need to be prepared and submitted as a single file: We accept *long (8 pages)* and *short (4 pages)*, with unlimited pages for references and appendix in both cases. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
 
-To submit your work, please visit the **[OpenReview submission website](https://openreview.net/group?id=ICML.cc/2023/Workshop/Frontiers4LCD)**. The list of accepted papers will be posted on the workshop website.
+To submit your work, please visit the **[OpenReview submission website](https://openreview.net/group?id=ICML.cc/2023/Workshop/OTML)**. The list of accepted papers will be posted on the workshop website.
 
 
 ## Questions

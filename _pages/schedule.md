@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at ICML 2023 at the Hawaii Convention Center on July 28th 2023. The session will cover a tutorial, invited talks, contributed talks, posters, and a panel discussion. The schedule in Hawaii Standard Time (GMT-10) can be found below. <b>(Click the talks to see their abstracts)</b>
+description: This workshop will be held in-person at Neurips 2023 at the New Orleans Ernest N. Morial Convention Center on December 16th 2023. The session will cover invited talks, contributed talks, and posters. The schedule will be announced here soon.<!--The schedule in Hawaii Standard Time (GMT-10) can be found below. <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 2
 ---
@@ -13,10 +13,10 @@ nav_order: 2
 <table class="table" id="standings" style="border-collapse:collapse">
 <tr class="header" style="background-color:rgb(215, 215, 215); border-top: 1pt solid white; border-bottom: 1pt solid black;">
         <th style="border-top-left-radius: 10px; width: 15%">Hawaii Time</th>
-        <!-- <th>Virtual link</th> -->
+        
         <th style="width: 15%">Type</th>
         <th style="width: 70% border-top-right-radius: 10px;">Title & Speakers</th>
-        <!-- <th style="width: 25% border-top-right-radius: 10px;">Speakers (Affiliations)</th> -->
+        
       </tr>
       <tr>
   <tr class="header" style="cursor: pointer">
@@ -81,7 +81,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
+      
         <td>12:15 - 13:15</td>
         <td></td>
         <td>Poster Session &amp; Lunch</td>
@@ -103,7 +103,7 @@ nav_order: 2
     <td>13:45 - 14:30</td>
     <td>Invited Talk</td>
     <td><b></b>
-      <!-- <br> -->
+     
       Claire Tomlin <i>(UC Berkeley)</i></td>
   </tr>
 
@@ -115,7 +115,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
+      
         <td>14:45 - 15:00</td>
         <td></td>
         <td>Coffee Break</td>
@@ -145,11 +145,12 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="background-color:rgb(240, 240, 240);">
-      <!-- <tr> -->
+      
         <td>16:00 - 17:00</td>
         <td></td>
         <td>Poster Session</td>
   </tr>
+  -->
 
 <!-- </table> -->
 <!-- </div> -->

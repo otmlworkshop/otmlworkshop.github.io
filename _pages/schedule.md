@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: This workshop will be held in-person at Neurips 2023 at the New Orleans Ernest N. Morial Convention Center on December 16th 2023. The session will cover invited talks, contributed talks, and posters. The schedule will be announced here soon.<!--The schedule in Hawaii Standard Time (GMT-10) can be found below. <b>(Click the talks to see their abstracts)</b>
+description: This workshop will be held in-person at Neurips 2023 at the New Orleans Ernest N. Morial Convention Center on December 15-16th 2023. The session will cover invited talks, contributed talks, and posters. The schedule will be announced here soon.<!--The schedule in Hawaii Standard Time (GMT-10) can be found below. <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 2
 ---

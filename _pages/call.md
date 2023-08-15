@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /submissions/
+permalink: /call/
 title: Call for Papers
 nav: true
 nav_order: 3
@@ -10,13 +10,32 @@ nav_order: 3
 
 ## Topics
 
-We invite submissions related (but not limited) to the following topics that are related to optimal transport:
+We invite submissions related to the following (non-exhaustive) topics that are related to optimal transport:
 
-*   Estimation of Optimal Transport
-*   Generalizations of Optimal Transport
-*   Statistics and Theory of Optimal Transport
-*   Optimal Transport and Applications
-*   Optimal Transport Gradient Flows 
+#### Estimation of optimal transport maps, couplings:
+* Estimation of Monge maps using parameterized or constrained families of potentials
+* OT with generalized choices of cost functions
+
+#### Generalizations and extensions of optimal transport:
+* Unbalanced formulation (OT between measures of different mass)
+* Gromov-Wasserstein formulation (OT with rigid transformations)
+* Multi-marginal OT 
+* Martingal OT (financial applications, etc)
+
+#### Statistics and theory
+* Finite-sample convergence guarantees 
+* OT as a convergence criterion for sampling
+* Theoretical properties of OT (e.g. )
+* Study of complexity of OT algorithms (e.g., Sinkhorn for entropic OT and related variants)
+* Study of partial differential equations and Wasserstein gradient flows (theory + applications)
+
+#### Optimal transport as a learning methodology and applications:
+* OT costs as a loss (e.g. GANs, minimization of Wasserstein distance between empirical and population measures)
+* OT to define data transformations (domain adaptation, clustering)
+* Connections to diffusion models via Schrödinger Bridges and entropic OT
+* High-dimensional applications such as Natural Language Processing, computational biology, vision tasks, etc.
+* Low-dimensional applications such as graphics, shapes, imaging, etc.
+
 
 ## Important Dates
 
@@ -31,7 +50,7 @@ To ensure your submission is considered, please adhere to the following guidelin
 *   **Formatting Instructions**: Use the following **[style files](/assets/files/neurips2023_otml.zip)** when preparing your submission. Use the following style files when preparing your submission. Papers need to be prepared and submitted as a single file: We accept *long (8 pages)* and *short (4 pages)*, with unlimited pages for references and appendix in both cases. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
 
-To submit your work, please visit the **[OpenReview submission website](https://openreview.net/group?id=ICML.cc/2023/Workshop/OTML)**. The list of accepted papers will be posted on the workshop website.
+To submit your work, please visit the **[OpenReview submission website](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/OTML)**. The list of accepted papers will be posted on the workshop website.
 
 
 ## Questions

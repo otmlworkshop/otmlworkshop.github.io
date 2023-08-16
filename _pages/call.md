@@ -29,7 +29,7 @@ We invite submissions related to the following (non-exhaustive) topics that are 
 * Limit distribution theory 
 * Study of complexity of OT algorithms
 
-#### Optimal Transport as a Learning Methodology and Applications:
+#### Optimal Transport for Machine Learning and Applications:
 * OT costs as a loss (e.g. GANs, minimization of Wasserstein distance between empirical and population measures)
 * OT to define data transformations (domain adaptation, clustering)
 * High-dimensional applications such as Natural Language Processing, computational biology, vision tasks, etc.

@@ -12,27 +12,26 @@ nav_order: 3
 
 We invite submissions related to the following (non-exhaustive) topics that are related to optimal transport:
 
-#### Estimation of optimal transport maps, couplings:
-* Estimation of Monge maps using parameterized or constrained families of potentials
+#### Optimal Transport Theory:
 * OT with generalized choices of cost functions
+* Study of partial differential equations and Wasserstein gradient flows (theory + applications)
+* Limits of regularization schemes  
 
-#### Generalizations and extensions of optimal transport:
+#### Generalizations of Optimal Transport:
 * Unbalanced formulation (OT between measures of different mass)
 * Gromov-Wasserstein formulation (OT with rigid transformations)
 * Multi-marginal OT 
-* Martingal OT (financial applications, etc)
+* Martingale OT (financial applications, etc)
 
-#### Statistics and theory
-* Finite-sample convergence guarantees 
-* OT as a convergence criterion for sampling
-* Theoretical properties of OT (e.g. )
-* Study of complexity of OT algorithms (e.g., Sinkhorn for entropic OT and related variants)
-* Study of partial differential equations and Wasserstein gradient flows (theory + applications)
+#### Computational and Statistical Optimal Transport
+* Estimation of Monge maps, couplings, etc.
+* Finite-sample convergence guarantees
+* Limit distribution theory 
+* Study of complexity of OT algorithms
 
-#### Optimal transport as a learning methodology and applications:
+#### Optimal Transport as a Learning Methodology and Applications:
 * OT costs as a loss (e.g. GANs, minimization of Wasserstein distance between empirical and population measures)
 * OT to define data transformations (domain adaptation, clustering)
-* Connections to diffusion models via Schrödinger Bridges and entropic OT
 * High-dimensional applications such as Natural Language Processing, computational biology, vision tasks, etc.
 * Low-dimensional applications such as graphics, shapes, imaging, etc.
 

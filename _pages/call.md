@@ -49,6 +49,13 @@ To ensure your submission is considered, please adhere to the following guidelin
 *   **Formatting Instructions**: Use the following **[style files](/assets/files/neurips2023_otml.zip)** when preparing your submission. Use the following style files when preparing your submission. Papers need to be prepared and submitted as a single file: We accept *long (8 pages)* and *short (4 pages)*, with unlimited pages for references and appendix in both cases. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
 
+We are soliciting submissions of original research at the interface between optimal transport theory, statistics, optimization, 
+machine learning and applications. Authors can submit work that overlaps with previously published or submitted work, as long as it adds a 
+new perspective on that work. Selected submissions will be presented in spotlight talks.
+
+Note that the workshop will not have proceedings and any work that has been or will be submitted to a reviewed Machine learning 
+conference is not considered double submission.
+
 To submit your work, please visit the **[OpenReview submission website](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/OTML)**. The list of accepted papers will be posted on the workshop website.
 
 

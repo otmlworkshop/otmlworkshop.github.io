@@ -38,7 +38,7 @@ We invite submissions related to the following (non-exhaustive) topics that are 
 
 ## Important Dates
 
-*   Submission Deadline: September 29th, 2023
+*   Submission Deadline: Oct 3rd, 2023
 *   Acceptance Notification: October 27th, 2023
 
 

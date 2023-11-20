@@ -17,8 +17,8 @@ nav_order: 2
         <th style="width: 15%">Type</th>
         <th style="width: 70% border-top-right-radius: 10px;">Title & Speakers</th>
         
-      </tr>
       <tr>
+
   <tr class="header" style="cursor: pointer">
     <td>9:00 - 10:00</td>
     <td>Plenary Talk</td>
@@ -39,7 +39,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="cursor: pointer">
-    <td>9:45 - 10:30</td>
+    <td>10:30 - 11:00</td>
     <td>Invited Talk</td>
     <td><b>Unbalanced Optimal Transport: Efficient solutions for outlier-robust machine learning</b><br>Laetitia Chapel<i> (Institute Agro Rennes-Angers)</i></td>
   </tr>
@@ -52,7 +52,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="cursor: pointer">
-    <td>15:00 - 15:15</td>
+    <td>11:00 - 11:15</td>
     <td>Contributed Talk</td>
     <td><b>TBC</b>
       <br>Zoe Piran<i> (Hebrew University of Jerusalem) </i></td>
@@ -65,7 +65,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="cursor: pointer">
-    <td>10:45 - 11:00</td>
+    <td>11:15 - 11:30</td>
     <td>Contributed Talk</td>
     <td><b>Accelerating Motion Planning via Optimal Transport</b>  <br>An Le, Georgia Chalvatzaki, Armin Biess, Jan Peters<i> (TU Darmstadt and Ben-Gurion University of the Negev) </i></td>
   </tr>
@@ -78,7 +78,7 @@ nav_order: 2
   </tr>
 
   <tr class="header" style="cursor: pointer">
-    <td>11:00 - 11:30</td>
+    <td>11:30 - 12:00</td>
     <td>Invited Talk</td>
     <td><b>Learning on graphs with Gromov-Wasserstein: from unsupervised learning to GNN</b><br> Rémi Flamary<i> (École Polytechnique)</i></td>
   </tr>

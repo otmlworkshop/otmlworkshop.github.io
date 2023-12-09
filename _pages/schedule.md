@@ -22,12 +22,22 @@ nav_order: 2
   <tr class="header" style="cursor: pointer">
     <td>9:00 - 10:00</td>
     <td>Plenary Talk</td>
-    <td><b>TBC</b><br>
+    <td><b>The making of the JKO schem</b><br>
     Felix Otto<i> (Max Planck Institute)</i></td>
   </tr>
     <td></td>
     <td></td>
-    <td>TBC
+    <td>De Giorgi popularized that even in the Riemannian setting,
+gradient flows allow for a variational time discretization
+that only appeals to the metric, not the differential structure.
+The JKO scheme is an instance of these minimizing movements,
+when the (informal) Riemannian setting is given by the Wasserstein geometry,
+and the functional by the (relative) entropy. This explains why 
+McCann's displacement convexity translates into contractivity of
+the diffusion equation. Bochner's formula relates the dimension and
+the Ricci curvature of the underlying manifold to contractive rates.
+In this picture, De Giorgi's inequality characterization of a gradient flow 
+can be assimilated to a large deviation principle for particle diffusions.
     </td>
   </tr>
 
@@ -114,14 +124,32 @@ nav_order: 2
   <tr class="header" style="cursor: pointer">
     <td>14:00 - 14:30</td>
     <td>Invited Talk</td>
-    <td><b>TBC</b>
+    <td><b>Diffusion Schrodinger Bridge Matching</b>
       <br>Arnaud Doucet<i> (University of Oxford)</i></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>
-      TBC
+      Novel mass transport methods motivated by generative modeling
+have recently been proposed, e.g. Denoising Diffusion Models (DDMs) and
+Flow Matching Models (FMMs) implement such a transport through a
+Stochastic Differential Equation (SDE) or an Ordinary Differential
+Equation (ODE). However, while it is desirable in many applications to
+approximate the deterministic dynamic Optimal Transport (OT) map which
+admits attractive properties, DDMs and FMMs are not guaranteed to
+provide transports close to the OT map. In contrast, Schrödinger bridges
+(SBs) compute stochastic dynamic mappings which recover
+entropy-regularized versions of OT. Unfortunately, existing numerical
+methods approximating SBs either scale poorly with dimension or
+accumulate errors across iterations. In this work, we introduce
+Iterative Markovian Fitting (IMF), a new methodology for solving SB
+problems, and Diffusion Schrödinger Bridge Matching (DSBM), a novel
+numerical algorithm for computing IMF iterates. DSBM significantly
+improves over previous SB numerics and recovers as special/limiting
+cases various recent transport methods. We demonstrate the performance
+of DSBM on a variety of problems. This is joint work with Yuyang Shi (Oxford), Valentin De Bortoli (Google
+DeepMind) and Andrew Campbell (Oxford).
     </td>
   </tr>
 
@@ -193,14 +221,14 @@ Classical learning theory focuses on supervised learning of functions via empiri
   <tr class="header" style="cursor: pointer">
     <td>16:30 - 17:00</td>
     <td>Invited Talk</td>
-    <td><b>Proximal algorithms for sampling and variational inference</b>
+    <td><b>Variational inference via Wasserstein gradient flows</b>
       <br>Sinho Chewi<i> (Institute of Advanced Study)</i></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>
-    Probabilistic problems which involve the non-smooth entropy functional benefit from the design of proximal algorithms over the Wasserstein space. This paradigm will be illustrated for sampling via the proximal sampler, and for Gaussian variational inference.
+    I will showcase the use of Wasserstein gradient flows as a conceptual framework for developing principled algorithms for variational inference (VI) with accompanying            convergence guarantees, particularly for Gaussian VI and mean-field VI. This is joint work with Francis Bach, Krishnakumar Balasubramanian, Silvère Bonnabel, Michael Diao,      Yiheng Jiang, Marc Lambert, Aram-Alexandre Pooladian, Philippe Rigollet, and Adil Salim.
     </td>
   </tr>
 

@@ -22,7 +22,7 @@ nav_order: 2
   <tr class="header" style="cursor: pointer">
     <td>9:00 - 10:00</td>
     <td>Plenary Talk</td>
-    <td><b>The making of the JKO schem</b><br>
+    <td><b>The making of the JKO scheme</b><br>
     Felix Otto<i> (Max Planck Institute)</i></td>
   </tr>
     <td></td>

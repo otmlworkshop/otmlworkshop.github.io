@@ -64,13 +64,13 @@ can be assimilated to a large deviation principle for particle diffusions.
   <tr class="header" style="cursor: pointer">
     <td>11:00 - 11:15</td>
     <td>Contributed Talk</td>
-    <td><b>TBC</b>
+    <td><b>Self-Supervised Learning with the Matching Gap</b>
       <br>Zoe Piran<i> (Hebrew University of Jerusalem) </i></td>
   </tr>
     <td></td>
     <td></td>
     <td>
-    TBC
+    Contrastive learning (CL) is a fundamental paradigm in self-supervised learning. CL methods rely on a loss that nudges the features of various views from one image to stay closer, while pulling away those drawn from different images. Such a loss favors invariance: feature representations of the same perturbed image should collapse to the same vector, while remaining far enough from those of any other image. Although intuitive, CL leaves room for trivial solutions, and has a documented propensity to collapse representations for very different images. This is often mitigated by using a very large variety of augmentations. In this talk, we address this tension by presenting a different loss, the matching gap, stemming from optimal transport theory. Given a set of n images transformed in two different ways, the matching gap is the difference between the mean cost (e.g. a squared distance), in representation space, of the n paired images, and the optimal matching cost obtained by running an optimal matching solver across these two families of n images. The matching gap naturally mitigates the problem of data augmentation invariance, since it can be zero without requiring features from the same image to collapse. We will show that it can be easily differentiated using Danskin’s theorem and attain competitive results, even without extensive data augmentations.
     </td>
   </tr>
 
@@ -207,15 +207,10 @@ Classical learning theory focuses on supervised learning of functions via empiri
   <tr class="header" style="cursor: pointer">
     <td>16:00 - 16:30</td>
     <td>Invited Talk</td>
-    <td><b>TBC</b>
+    <td><b>Optimal transport on graphs, manifolds and trees</b>
       <br>Smita Krishnaswamy<i> (Yale University)</i></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>
-    TBC
-    </td>
   </tr>
 
   <tr class="header" style="cursor: pointer">

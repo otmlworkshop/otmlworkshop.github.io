@@ -110,14 +110,13 @@ can be assimilated to a large deviation principle for particle diffusions.
   <tr class="header" style="cursor: pointer">
     <td>13:30 - 14:00</td>
     <td>Invited Talk</td>
-    <td><b>Neural Optimal Transport</b>
+    <td><b>Amortized optimization for optimal transport</b>
       <br>Brandon Amos<i> (Meta AI)</i></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>
-    TBC
+    <td> Optimal transport has thriving applications in machine learning, computer vision, natural language processing, the physical sciences, and economics. These applications have largely been enabled by computational breakthroughs that have lead to tractable solutions to challenging optimization problems, especially in discrete spaces through the use of convex optimization methods. Beyond these well-understood classes problems, many difficult optimization problems and sub-problems in optimal transport remain open. This talk focuses on the use of learning methods to predict, or amortize, the solutions to these optimization problems. This amortization process incurs an initial computational cost of training a model to approximately predict the solutions, but afterwards, the model can produce predictions faster than solving the optimization problems from scratch to the same level of error. Furthermore, even inaccurate predictions are tolerable because they are easily detectable, e.g., via the optimality conditions, and can be fine-tuned by warm-starting an existing method with the prediction. The talk covers how to amortize the computation at three levels: 1) the optimal transport map or potential, 2) the c-transform or convex conjugate, and 3) costs defined by a Lagrangian.    
     </td>
   </tr>
 

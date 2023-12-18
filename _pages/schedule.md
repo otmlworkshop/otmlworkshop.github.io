@@ -216,13 +216,13 @@ Classical learning theory focuses on supervised learning of functions via empiri
     <td>16:30 - 17:00</td>
     <td>Invited Talk</td>
     <td><b>Variational inference via Wasserstein gradient flows</b>
-      <br>Sinho Chewi<i> (Institute of Advanced Study)</i></td>
+      <br>Sinho Chewi<i> (Institute for Advanced Study)</i></td>
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td>
-    I will showcase the use of Wasserstein gradient flows as a conceptual framework for developing principled algorithms for variational inference (VI) with accompanying            convergence guarantees, particularly for Gaussian VI and mean-field VI. This is joint work with Francis Bach, Krishnakumar Balasubramanian, Silvère Bonnabel, Michael Diao,      Yiheng Jiang, Marc Lambert, Aram-Alexandre Pooladian, Philippe Rigollet, and Adil Salim.
+    I will showcase the use of Wasserstein gradient flows as a conceptual framework for developing principled algorithms for variational inference (VI) with accompanying            convergence guarantees, particularly for Gaussian VI and mean-field VI. This is joint work with Francis Bach, Krishnakumar Balasubramanian, Silvère Bonnabel, Michael Diao,      Yiheng Jiang, Marc Lambert, Aram-Alexandre Pooladian, Philippe Rigollet, and Adil Salim. [[Slides]](https://drive.google.com/file/d/15U5JkCZFdy8nIvpLrUxBQP1xfUqnY_nf/view?usp=sharing)
     </td>
   </tr>
 
